@@ -1,5 +1,6 @@
 # CPSC359_Speed_Gold
 **CPSC 359, Fall 2017, Dr. Jeffrey Edwin Boyd**
+
 Simple Python game developed using PyGame which was used to complete assignments on the Raspberry Pi 3
 
 Base version of game can be run on any system using a Python 3 interpreter
